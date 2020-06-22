@@ -20,7 +20,7 @@
         Como aprender Vue?
       </h2>
       <p class="mt-8 leading-loose md:text-sm text-secondary">
-        O aprendizado de uma ferramenta vária de pessoa pra pessoa, afinal de
+        O aprendizado de uma ferramenta varia de pessoa pra pessoa, afinal de
         contas, absorvemos conhecimento em velocidades diferentes. Por isso não
         fique ansioso, indagando se o seu aprendizado está rápido. Divirta-se,
         curta o momento e valorize as pequenas conquistas. Com isso em mente,
