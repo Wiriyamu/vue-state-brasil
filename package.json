@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@growthbunker/vuetimeline": "^0.1.16",
-    "apexcharts": "^3.19.2",
+    "apexcharts": "^3.24.0",
     "core-js": "^3.6.5",
     "tailwindcss": "^1.4.6",
     "vue": "^2.6.11",
